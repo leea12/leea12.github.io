@@ -71,7 +71,8 @@ nav {
     top: 0;  
     width: 100%;  
     z-index: 100;  
-    
+}
+
 nav .left a {
     color: var(--text-color);
     font-size: 30px;
