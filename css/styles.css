@@ -67,10 +67,7 @@ nav {
     padding: 25px 0;
     height: 80px;
     align-items: center;
-    position: fixed;  /
-    top: 0;  
-    z-index: 100;
-    background-color: var(background-color);
+    position: relative;
 }
 
 nav .left a {
